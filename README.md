@@ -14,3 +14,4 @@ Give proper credit to resources you used in this project. This could be a link t
 * [@jyixzhou](https://github.com/jyixzhou)
 
 *E-MAIL/PHONE*
+phoebelu@ucla.edu
